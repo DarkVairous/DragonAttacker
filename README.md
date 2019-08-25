@@ -24,6 +24,6 @@ $git clone git clone https://https://github.com/DarkVairous/DarkAttacker
 
 $cd DragonAttacker
 
-$python2 DDOSAtacker.py (if the python2 not working use python)
+$python2 DarkAttacker.py (if the python2 not working use python)
 
 # Thanks For Use

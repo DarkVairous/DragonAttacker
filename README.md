@@ -3,7 +3,7 @@ This tool is used to attack websites and cause serious damage.
 * marked *
 Do not attack from Windows because Windows attacks do not affect sites.
 # Installation On Linux
-git clone https://https://github.com/DarkVairous/DarkAttacker
+git clone https://github.com/DarkVairous/DarkAttacker
 
 cd DragonAttack
 
@@ -20,7 +20,7 @@ $apt install python2
 
 $apt install python
 
-$git clone git clone https://https://github.com/DarkVairous/DarkAttacker
+$git clone git clone https://github.com/DarkVairous/DarkAttacker
 
 $cd DragonAttacker
 

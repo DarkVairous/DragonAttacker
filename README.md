@@ -23,7 +23,7 @@ $apt install python2
 
 $apt install python
 
-$git clone git clone https://github.com/DarkVairous/DragonAttacker
+$git clone https://github.com/DarkVairous/DragonAttacker
 
 $cd DragonAttacker
 
